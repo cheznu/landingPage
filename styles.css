@@ -1,0 +1,77 @@
+p{
+    margin:0;
+    padding:0;
+}
+.header-container{
+    background-color: #1F2937;
+    max-height: 450px;
+}
+.upper-header{
+    display:flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin:0 auto;
+    padding:20px;
+}
+.logo img{
+    width: 80px;
+    height:80px;
+    
+}
+.upper-header > .links{
+    display: flex;
+    gap:14px;
+    font-size: 18px;
+}
+
+
+.lower-header{
+    display:flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin:0 auto;
+    
+}
+.text-box{
+    display:flex;
+    flex-direction: column;
+    gap:12px;
+
+}
+
+.top-line{
+    color:#F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+.sub-text{
+    font-size: 18px;
+    color:#E5E7EB;
+}
+.first-button{
+    background-color: #3882F6;
+    color: #f9faf8;
+    padding:10px 30px;
+    border:none;
+    border-radius: 10px;
+    cursor:pointer;
+    font-weight: 900;
+    width:113px;
+
+}
+.first-button:hover{
+    background-color: #2e6cd1;
+}
+
+
+.arowana img{
+    width:500px;
+    height:200px;
+    padding:30px 20px;
+}
+a{
+    text-decoration: none;
+    color:#E5E7EB
+}
+
+
