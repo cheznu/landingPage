@@ -129,3 +129,39 @@ body{
     padding-top: 20px;
     font-size: 22px;
 }
+
+.fourth-container{
+    display: flex;
+    justify-content: center;
+    padding:120px;
+}
+
+.blue-box{
+    display: flex;
+    background-color: #3882F6;
+    width: 1000px;
+    height: 125px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bb-text{
+    font-size:25px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.bb-subtext{
+    font-size: 18px;
+    color:#e5e7eb;
+}
+
+.bb-signupbtn{
+    border: 3px solid white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius:6px;
+    color:#f9faf8;
+    font-weight: 800;
+    padding:6px 28px;
+}
