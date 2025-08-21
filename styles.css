@@ -115,3 +115,17 @@ body{
     border-radius: 10px;
 }
 
+.third-container{
+    display: flex;
+    justify-content: center;
+    padding:150px;
+    font-size: 36px;
+    background-color: #E5E7EB;
+}
+
+.kratos{
+    display: flex;
+    justify-content: right;
+    padding-top: 20px;
+    font-size: 22px;
+}
