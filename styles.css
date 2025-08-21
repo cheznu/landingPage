@@ -163,5 +163,16 @@ body{
     border-radius:6px;
     color:#f9faf8;
     font-weight: 800;
-    padding:6px 28px;
+    padding:6px 24px;
+}
+
+.footer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 25px;
+    color:#F9FAF8;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
